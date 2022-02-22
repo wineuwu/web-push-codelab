@@ -1,6 +1,7 @@
 *~
 *.pyc
 *.swp
+.env
 .idea
 build
 .DS_Store
